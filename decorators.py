@@ -16,5 +16,6 @@ def test_1(arg1):...   # test_1 = decorator (test_1)
 def test_2(arg1):...
 
 
+
 if __name__ == '__main__':
     test_1(5)
